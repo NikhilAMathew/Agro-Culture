@@ -22,6 +22,14 @@ announcement through telephone and thaluk offices so this will be much more bett
 • The agricultural officer can view and manage seeds, fertilizer and other equipment. 
 • The users can attend seminars related to agro culture. 
 
+# Tools used 🛠️
+1. Language :	Python
+2. IDE : Visual Studio Code
+3. Frontend : HTML, CSS, Bootstrap, JavaScript
+4. Backend : MySQL
+5. Web Server : Apache
+
+
 ## Officer Login
 ![3](https://github.com/NikhilAMathew/Agro-Culture/assets/117088447/5643a7b2-6541-4394-ac1d-226180a4dc32)
 
@@ -33,3 +41,9 @@ announcement through telephone and thaluk offices so this will be much more bett
 
 ## Query page
 ![6](https://github.com/NikhilAMathew/Agro-Culture/assets/117088447/80a57808-62c8-42a9-8db9-f5851e3f3b4a)
+
+# Steps to run
+1. Run this command on cmd
+   ```
+   python manage.py
+   ```
